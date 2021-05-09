@@ -1,0 +1,3 @@
+
+rootProject.name = 'gmail-inbox-status'
+include('gmail-inbox-status')
