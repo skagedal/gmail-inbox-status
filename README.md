@@ -30,3 +30,9 @@ not empty
 $ gmail-inbox-status --check-empty --unread && echo "empty" || echo "not empty"
 empty
 ```
+
+## Alternatives
+
+* [cmdg](https://github.com/ThomasHabets/cmdg) – TUI written in Go
+* [qGmail](https://github.com/UtkarshVerma/qgmail) - cli written in Go
+* [google-gmail1-cli](https://crates.io/crates/google-gmail1-cli) - library and cli written in Ruby
